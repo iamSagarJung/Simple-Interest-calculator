@@ -1,0 +1,20 @@
+
+
+#filled-basic{
+  padding:auto;
+  color:rgb(11, 73, 187);
+  border-radius: 30%;
+text-align: center;
+
+}
+
+
+.Sagar{
+  width:100%;
+  display: flex;
+  justify-content: center;
+
+} 
+.app-bar{
+text-align: center;
+}
